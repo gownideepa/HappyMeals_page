@@ -5,7 +5,7 @@
     max-width: 600px;
     height: 100vh;
     margin: 0 auto;
-    background-image: url("./images/meals.jpg");
+    background-image: url("./images/meals.jpg"); /* here we are giving image url */
     background-size: cover;
     background-position: center;
     border-radius: 10px;
